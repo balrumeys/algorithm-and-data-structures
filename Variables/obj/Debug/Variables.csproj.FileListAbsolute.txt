@@ -1,0 +1,8 @@
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\bin\Debug\Variables.exe.config
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\bin\Debug\Variables.exe
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\bin\Debug\Variables.pdb
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\obj\Debug\Variables.exe
+C:\Users\rumey\source\repos\AlgorithmProgrammingAndDataStructures\Variables\obj\Debug\Variables.pdb
